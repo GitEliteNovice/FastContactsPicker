@@ -14,7 +14,7 @@
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.GitEliteNovice:FastContactsPicker:Tag'
+	        implementation 'com.github.GitEliteNovice:FastContactsPicker:v1.0'
 	}
 
 For Maven
