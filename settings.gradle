@@ -1,0 +1,1 @@
+include ':app', ':fastcontacts_picker'
