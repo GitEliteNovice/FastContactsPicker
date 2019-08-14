@@ -64,4 +64,5 @@ Step 2. Add the dependency
          })
 
 
-*Note:- This project is open if you find any problem i this project feel free to make changes. 
+*Note:-
+If you want to say thanks or want to share how much you like my efforts, then you can share it with me with [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/GitEliteNovice) 
