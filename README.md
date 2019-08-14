@@ -18,17 +18,17 @@ Step 2. Add the dependency
 	}
 
 For Maven
-
-<repositories>
+           <repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
+	
 Step 2. Add the dependency
 
 	<dependency>
 	    <groupId>com.github.GitEliteNovice</groupId>
 	    <artifactId>FastContactsPicker</artifactId>
-	    <version>Tag</version>
+	    <version>v1.0</version>
 	</dependency>
