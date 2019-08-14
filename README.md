@@ -4,7 +4,7 @@ FastContactPicker is a library that fetches contacts from the device very fast. 
 
  [![API](https://img.shields.io/badge/API-15%2B-red.svg)](https://android-arsenal.com/api?level=15) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40elite_novice)](https://twitter.com/elite_novice)
  <p align="center">
- <br>
+ 
 <b>Android library for Fetching Contacts from Device</b> 
 </p>
  <p align="center">
