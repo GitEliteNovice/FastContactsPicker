@@ -1,6 +1,8 @@
 # FastContactsPicker
   A kotlin library taht loads all contacts from your device very Fast
   
+
+## How to Add Dependency  
   For Gradle
   
   Add it in your root build.gradle at the end of repositories:
@@ -32,3 +34,29 @@ Step 2. Add the dependency
 	    <artifactId>FastContactsPicker</artifactId>
 	    <version>v1.0</version>
 	</dependency>
+
+
+## How to Fetch Contacts
+
+         FastContactPicker.getInstance(this).fetchContacts().subscribeWith(object :Observer<Any>{
+             override fun onComplete() {
+
+             }
+
+             override fun onSubscribe(d: Disposable) {
+
+             }
+
+             override fun onNext(t: Any) {
+
+           
+                 var arrayList=t as ArrayList<ContactInfo>
+           //list of contacts
+             }
+
+             override fun onError(e: Throwable) {
+// error
+                 Toast.makeText(this@MainActivity,"error"+e.localizedMessage,Toast.LENGTH_LONG).show()
+             }
+
+         })
